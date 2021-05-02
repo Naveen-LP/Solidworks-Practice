@@ -2,7 +2,7 @@
 Exercises from a Solidworks course
 
 
-Different folders containing practice exercises from an online course on Solidworks.
+Different folders contain practice exercises from an online course on Solidworks.
 
 1. Basic Sketches: Contains exercises of simple sketching with basic tools
 2. Parts-Basic: Contains basic part modeling 
